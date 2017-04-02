@@ -1,0 +1,4 @@
+config/db.php
+
+*php_errors.log
+errors.log
